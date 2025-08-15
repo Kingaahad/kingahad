@@ -83,7 +83,6 @@ Turning ideas into <b>intelligent automation systems</b> & <b>AI-powered solutio
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kingaahad/Kingaahad/output/github-contribution-grid-snake.svg" />
-  ![Snake animation](https://raw.githubusercontent.com/Kingaahad/Kingaahad/output/github-contribution-grid-snake.svg)
 
 </p>
 
@@ -100,3 +99,4 @@ Turning ideas into <b>intelligent automation systems</b> & <b>AI-powered solutio
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:6600FF&height=120&section=footer" />
 
+<p align="center">✨ Always building something new & exciting with AI ✨</p>
